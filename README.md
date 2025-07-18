@@ -1,3 +1,4 @@
+![logo](https://github.com/Gautam-Shende/Gautam-Shende/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Gautam Shende</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
