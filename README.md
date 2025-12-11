@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Gautam Shende</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img alt="coding" width="400" align="right" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-shende&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-shende" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam-shende" alt="gautam-shende" /></a> </p>
