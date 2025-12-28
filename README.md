@@ -1,4 +1,4 @@
-![logo](https://github.com/Gautam-Shende/Gautam-Shende/blob/main/Untitled%20design.png)
+![logo](https://github.com/Gautam-Shende/Gautam-Shende/blob/main/gautam-shende.png?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-shende&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-shende" /> </p>
 
