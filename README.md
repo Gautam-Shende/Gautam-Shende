@@ -1,4 +1,4 @@
-![logo](Banner_profile.png)
+![logo](Profile_Banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam-shende&label=Profile%20views&color=0e75b6&style=flat" alt="gautam-shende" /> </p>
 
